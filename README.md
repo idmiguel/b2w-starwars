@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/318/PNG/512/Darth-Vader-icon_34501.png" width="500" alt="DarthVader"></img></h2>
+<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/318/PNG/512/Darth-Vader-icon_34501.png" width="250" alt="DarthVader"></img></h2>
 
 ## Star Wars | Planets Game
 Projeto criado em React utilizando o Toolchains Create React App.
