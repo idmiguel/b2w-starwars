@@ -4,6 +4,10 @@
 Projeto criado em React utilizando o Toolchains Create React App.
 E também utilizado o pré-processador Node-sass, a lib 'styled-components' e 'react-sound' nativas do React.
 
+### Projeto online
+
+https://idmiguel.github.io/b2w-starwars/
+
 ### Rodando o projeto local
 
 Abra o terminal e digite os seguintes comandos:
