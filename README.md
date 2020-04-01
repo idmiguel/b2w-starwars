@@ -6,7 +6,7 @@ E também utilizado o pré-processador Node-sass, a lib 'styled-components' e 'r
 
 ### Projeto online
 
-https://idmiguel.github.io/b2w-starwars/
+https://idmiguel.github.io/
 
 ### Rodando o projeto local
 
