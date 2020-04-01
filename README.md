@@ -57,5 +57,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Como jogar?
 
-Quem adivinhar o nome do jogo é o ganhador da rodada. Assim essa pessoa que ganhou, vira a narradora do próximo planeta que está sendo exibido.
+Quem adivinhar o nome do planeta é o ganhador da rodada. Assim essa pessoa que ganhou, vira a narradora do próximo planeta que está sendo exibido.
 Quem acertar em 10 rodadas mais planetas, é o ganhador.
